@@ -11,31 +11,22 @@ Problems are organized by topic, following a progression from discrete math foun
 ```
 
 stats-prep-track/
-├── sets\_and\_counting/
-├── permutations\_and\_combinations/
-├── pigeonhole\_inclusion\_exclusion/
-├── stars\_and\_bars/
-├── probability\_basics/
-├── conditional\_and\_bayes/
-├── random\_variables/
+├── sets_and_counting/
+├── permutations_and_combinations/
+├── pigeonhole_inclusion_exclusion/
+├── stars_and_bars/
+├── probability_basics/
+├── conditional_and_bayes/
+├── random_variables/
 ├── distributions/
-└── misc\_problems/
+└── misc_problems/
 
 ```
 
 ---
 
-## 📅 Study Plan
-I’m following a **16-week weekend-only roadmap** (2 hours Saturday + 2 hours Sunday).  
-- **Weeks 1–8:** Combinatorics & counting principles  
-- **Weeks 9–12:** Probability foundations (Bayes, conditioning, classic problems)  
-- **Weeks 13–16:** Random variables, distributions, expectation, variance  
-
-(Plan inspired by MIT 6.042J, Rosen’s *Discrete Math*, and Blitzstein & Hwang’s *Introduction to Probability*.)
-
----
-
 ## ✅ Tracking Progress
+
 Each folder will contain:
 - `problems.md` – problem statements  
 - `solutions.md` – my worked-out solutions (LaTeX/Markdown)  
