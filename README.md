@@ -1,31 +1,11 @@
-# 📊 stats-prep-track
+# stats-prep-track
 
 This repository is my personal journal of solving problems to build a strong foundation in **combinatorics, probability, and statistics**.  
 The goal: prepare step by step until I can comfortably work through *Introduction to Probability* by Blitzstein & Hwang.
 
 ---
 
-## 🗂 Structure
-Problems are organized by topic, following a progression from discrete math foundations → combinatorics → probability → introductory statistics.
-
-```
-
-stats-prep-track/
-├── sets\_and\_counting/
-├── permutations\_and\_combinations/
-├── pigeonhole\_inclusion\_exclusion/
-├── stars\_and\_bars/
-├── probability\_basics/
-├── conditional\_and\_bayes/
-├── random\_variables/
-├── distributions/
-└── misc\_problems/
-
-```
-
----
-
-## 📅 Study Plan
+## Study Plan
 I’m following a **16-week weekend-only roadmap** (2 hours Saturday + 2 hours Sunday).  
 - **Weeks 1–8:** Combinatorics & counting principles  
 - **Weeks 9–12:** Probability foundations (Bayes, conditioning, classic problems)  
@@ -35,7 +15,8 @@ I’m following a **16-week weekend-only roadmap** (2 hours Saturday + 2 hours S
 
 ---
 
-## ✅ Tracking Progress
+## Tracking Progress
+
 Each folder will contain:
 - `problems.md` – problem statements  
 - `solutions.md` – my worked-out solutions (LaTeX/Markdown)  
@@ -43,14 +24,16 @@ Each folder will contain:
 
 ---
 
-## 🎯 Goals
+## Goals
+
 - Build strong problem-solving skills in combinatorics & probability.  
 - Gain confidence for tackling *Introduction to Probability* seriously.  
 - Have a record of progress to reflect on later.  
 
 ---
 
-## 📌 Resources
+## Resources
+
 - **Books**:  
   - Blitzstein & Hwang – *Introduction to Probability*  
   - Rosen – *Discrete Mathematics and Its Applications*  
@@ -61,4 +44,4 @@ Each folder will contain:
 
 ---
 
-✨ *Step by step → combinatorics → probability → statistics.*
+_Created and Maintaned by **RM Villa**._
