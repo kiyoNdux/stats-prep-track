@@ -5,17 +5,6 @@ The goal: prepare step by step until I can comfortably work through *Introductio
 
 ---
 
-## Study Plan
-I’m following a **16-week weekend-only roadmap** (2 hours Saturday + 2 hours Sunday).  
-- **Weeks 1–8:** Combinatorics & counting principles  
-- **Weeks 9–12:** Probability foundations (Bayes, conditioning, classic problems)  
-- **Weeks 13–16:** Random variables, distributions, expectation, variance  
-
-(Plan inspired by MIT 6.042J, Rosen’s *Discrete Math*, and Blitzstein & Hwang’s *Introduction to Probability*.)
-
----
-
-## Tracking Progress
 
 Each folder will contain:
 - `problems.md` – problem statements  
