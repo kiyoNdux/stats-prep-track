@@ -26,7 +26,6 @@ Each folder will contain:
 - **Books**:  
   - Blitzstein & Hwang – *Introduction to Probability*  
   - Rosen – *Discrete Mathematics and Its Applications*  
-  - Andreescu – *102 Combinatorial Problems*  
 
 - **Courses**:  
   - MIT 6.042J: Mathematics for Computer Science (counting & probability parts)  
