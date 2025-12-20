@@ -27,9 +27,6 @@ Each folder will contain:
   - Blitzstein & Hwang – *Introduction to Probability*  
   - Rosen – *Discrete Mathematics and Its Applications*  
 
-- **Courses**:  
-  - MIT 6.042J: Mathematics for Computer Science (counting & probability parts)  
-
 ---
 
 _Created and Maintaned by **RM Villa**._
